@@ -4,7 +4,7 @@
   <subtitle><![CDATA[stay hungry stay foolish]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://rebaomi.github.io/"/>
-  <updated>2014-06-15T16:11:03.766Z</updated>
+  <updated>2014-06-15T16:42:12.949Z</updated>
   <id>http://rebaomi.github.io/</id>
   
   <author>
@@ -13,6 +13,22 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[]]></title>
+    <link href="http://rebaomi.github.io/2014/06/16/test/"/>
+    <id>http://rebaomi.github.io/2014/06/16/test/</id>
+    <published>2014-06-15T16:41:08.000Z</published>
+    <updated>2014-06-15T16:41:08.000Z</updated>
+    <content type="html"><![CDATA[<p>this is a Markdown line</p>
+<p><br>  this is a HTML tag<br></p>
+
+<p>this is another Markdown line</p>
+<script src="https://raw.githubusercontent.com/rebaomi/PlayThreeJs/gh-pages/js/tween.min.js">
+</script>]]></content>
+    
+    
+  </entry>
   
   <entry>
     <title><![CDATA[]]></title>
